@@ -30,6 +30,7 @@ Aim: automatic checking of milestones set by a developer (literarily, this progr
 
 * The contributor must understand markdown language (at least, should understand some basic syntax)
 * Contribution can only be made on the current topic
+* Guest contribution is allowed as well, just make your relevant contribution and propose a change with a precise solution
 * No repetition of ideas or modification of someone else's idea
 * Contribution must be relevant, else, the contributor's changes or contribution to this file will be reverted by another contributor
 * Be direct in stating solution, ideas or procedures
